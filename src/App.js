@@ -1,5 +1,5 @@
 
-import './App.css';
+import './styles.css';
 
 import ImageGenerator from './Components/ImageGenerator/ImageGenerator';
 function App() {
